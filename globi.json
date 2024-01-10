@@ -1,0 +1,7 @@
+{ 
+  "format": "rss",
+  "citation": "Datasets available though Colombia SiB https://biodiversidad.co/",
+  "url": "https://ipt.biodiversidad.co/sib/rss.do",
+  "hasDependencies": false,
+  "shouldResolveReferences": false
+}
