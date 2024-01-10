@@ -4,5 +4,5 @@
   "url": "https://ipt.biodiversidad.co/sib/rss.do",
   "hasDependencies": false,
   "shouldResolveReferences": false,
-  "deprecated": true
+  "deprecated": false
 }
